@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EnableJpaRepositories(basePackages = "com.crick.apis.repositories")
+//@EnableJpaRepositories(basePackages = "com.crick.apis.repositories")
 public class CrickbackendApplication{  /*extends SpringBootServletInitializer*/  
 	public static void main(String[] args) {
         SpringApplication.run(CrickbackendApplication.class, args);
