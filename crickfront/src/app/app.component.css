@@ -1,0 +1,6 @@
+.nav-menu:hover{
+    color: Black;
+    text-decoration: underline;
+    text-underline-offset: 0.7rem;
+    text-decoration-color: rgb(44, 43, 43);
+}
