@@ -26,5 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-####################################################################################################################################################################################################
+
+## Crickbackend
+This project was generated with Java 17 and Spring Boot 3x.
+
+## Project Structure Using Spring Initializer
+Project - Maven | Language - Java 17 | Spring Boot version - 3.2.1(current latest version)
+
+## Development Server
+Embedded Tomcat Server with port number 8080
 
