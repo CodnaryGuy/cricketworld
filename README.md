@@ -37,5 +37,5 @@ Project - Maven | Language - Java 17 | Spring Boot version - 3.2.1(current lates
 Embedded Tomcat Server with port number 8080
 
 # Tools Used :
-Visual Studio Code - Angular
-Eclipse - Java
+Visual Studio Code And
+Eclipse editor
